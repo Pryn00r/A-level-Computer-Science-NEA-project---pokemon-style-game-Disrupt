@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "checksum": "6cfaa5abcdd98ccdb5d974c3d812c2f7fb104860318c3125d047500c7b7270cd",
+  "data": {
+    "profile_id": "74ec4b70fd4a44ab8e5b715c54ac4883",
+    "username": "Speedy",
+    "saved_at": "2026-11-18 17:53",
+    "play_time": 7498.649999948174,
+    "map": "world",
+    "spawn": "fire",
+    "position": [
+      2040.06005859375,
+      3898.0673828125
+    ],
+    "facing": "up",
+    "party": [
+      {
+        "name": "Charmadillo",
+        "level": 100,
+        "xp": 5500.000000000001,
+        "health": 2900,
+        "energy": 1200,
+        "nickname": null,
+        "held_item": null,
+        "shiny": true,
+        "declined": 0,
+        "happiness": 255,
+        "tutored": [],
+        "moves": null
+      },
+      {
+        "name": "Pluma",
+        "level": 100,
+        "xp": 5500.000000000001,
+        "health": 2300,
+        "energy": 2572,
+        "nickname": null,
+        "held_item": null,
+        "shiny": true,
+        "declined": 0,
+        "happiness": 255,
+        "tutored": [],
+        "moves": null
+      },
+      {
+        "name": "Finiette",
+        "level": 100,
+        "xp": 5500.000000000001,
+        "health": 2700,
+        "energy": 2300,
+        "nickname": null,
+        "held_item": null,
+        "shiny": true,
+        "declined": 0,
+        "happiness": 255,
+        "tutored": [],
+        "moves": null
+      }
+    ],
+    "inventory": {
+      "potion": 102,
+      "ether": 101,
+      "burn_heal": 99,
+      "thaw_spray": 99,
+      "antidote": 99,
+      "wake_bell": 99,
+      "full_cure": 99,
+      "max_ether": 99,
+      "party_heal": 99,
+      "capture_orb": 99,
+      "great_orb": 99,
+      "prime_orb": 99,
+      "power_band": 5,
+      "vital_charm": 4,
+      "focus_ring": 4,
+      "wise_feather": 4,
+      "swift_scarf": 3,
+      "guard_shell": 3,
+      "lucky_coin": 3,
+      "shiny_charm": 1
+    },
+    "defeated_trainers": [
+      "o1",
+      "o2",
+      "o3",
+      "o4",
+      "o5",
+      "p2"
+    ],
+    "coins": 102109,
+    "tutorial_done": true,
+    "progress": {
+      "seen": [
+        "Atrox",
+        "Charmadillo",
+        "Cindrill",
+        "Cleaf",
+        "Finiette",
+        "Gulfin",
+        "Ivieron",
+        "Larvea",
+        "Pluma",
+        "Pouch",
+        "Sparchu"
+      ],
+      "caught": [
+        "Charmadillo",
+        "Finiette",
+        "Finsta",
+        "Pluma"
+      ],
+      "claimed": [],
+      "counters": {
+        "evolved": 0,
+        "shiny": 0,
+        "catches": 0,
+        "steps": 669,
+        "crits": 2,
+        "wins": 10,
+        "travels": 6
+      },
+      "look": {
+        "hue": 30,
+        "gold": false
+      },
+      "storage": [
+        {
+          "name": "Atrox",
+          "level": 100,
+          "xp": 5500.000000000001,
+          "health": 1800,
+          "energy": 2000,
+          "nickname": null,
+          "held_item": null,
+          "shiny": true,
+          "declined": 0,
+          "happiness": 255,
+          "tutored": [],
+          "moves": null
+        },
+        {
+          "name": "Pouch",
+          "level": 100,
+          "xp": 5500.000000000001,
+          "health": 2300,
+          "energy": 2500,
+          "nickname": null,
+          "held_item": null,
+          "shiny": true,
+          "declined": 0,
+          "happiness": 255,
+          "tutored": [],
+          "moves": null
+        },
+        {
+          "name": "Draem",
+          "level": 100,
+          "xp": 5500.000000000001,
+          "health": 2300,
+          "energy": 2500,
+          "nickname": null,
+          "held_item": null,
+          "shiny": true,
+          "declined": 0,
+          "happiness": 255,
+          "tutored": [],
+          "moves": null
+        },
+        {
+          "name": "Cleaf",
+          "level": 100,
+          "xp": 5500.000000000001,
+          "health": 1800,
+          "energy": 2000,
+          "nickname": null,
+          "held_item": null,
+          "shiny": true,
+          "declined": 0,
+          "happiness": 255,
+          "tutored": [],
+          "moves": null
+        },
+        {
+          "name": "Jacana",
+          "level": 100,
+          "xp": 5500.000000000001,
+          "health": 1200,
+          "energy": 1900,
+          "nickname": null,
+          "held_item": null,
+          "shiny": true,
+          "declined": 0,
+          "happiness": 255,
+          "tutored": [],
+          "moves": null
+        },
+        {
+          "name": "Friolera",
+          "level": 100,
+          "xp": 5500.000000000001,
+          "health": 1300,
+          "energy": 2000,
+          "nickname": null,
+          "held_item": null,
+          "shiny": true,
+          "declined": 0,
+          "happiness": 255,
+          "tutored": [],
+          "moves": null
+        }
+      ],
+      "story": {
+        "visited": [
+          "house",
+          "hospital",
+          "hospital2",
+          "plant",
+          "fire"
+        ],
+        "clock": 11.844116666698143,
+        "call_timer": 525.6579999999703,
+        "daycare": {
+          "monsters": [],
+          "steps": 0,
+          "egg": null
+        },
+        "bounty": {
+          "key": "2026-11-14",
+          "done": []
+        },
+        "achievements": [
+          "level_50"
+        ],
+        "hospital": [
+          "hospital",
+          "world"
+        ]
+      }
+    }
+  }
+}

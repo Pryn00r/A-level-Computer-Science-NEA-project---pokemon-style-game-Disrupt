@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "checksum": "11c8236bea91a01a52c12085de11be6c892fe9263ed7d6057ef1b86006801f09",
+  "data": {
+    "profile_id": "74ec4b70fd4a44ab8e5b715c54ac4883",
+    "username": "Speedy",
+    "saved_at": "2026-11-14 15:54",
+    "play_time": 275.53999999996233,
+    "map": "house",
+    "spawn": "world",
+    "position": [
+      193.33299255371094,
+      620.0
+    ],
+    "facing": "right",
+    "party": [
+      {
+        "name": "Finsta",
+        "level": 5,
+        "xp": 300.0,
+        "health": 65,
+        "energy": 73,
+        "nickname": "Stone Ocean",
+        "held_item": null,
+        "shiny": false,
+        "declined": 0,
+        "happiness": 52,
+        "tutored": []
+      }
+    ],
+    "inventory": {
+      "potion": 7,
+      "ether": 3,
+      "capture_orb": 5,
+      "power_band": 1
+    },
+    "defeated_trainers": [
+      "o1"
+    ],
+    "coins": 200,
+    "tutorial_done": true,
+    "progress": {
+      "seen": [
+        "Larvea",
+        "Pouch"
+      ],
+      "caught": [
+        "Finsta"
+      ],
+      "claimed": [],
+      "counters": {
+        "evolved": 0,
+        "shiny": 0,
+        "catches": 0,
+        "steps": 55,
+        "crits": 0,
+        "wins": 1
+      },
+      "look": {
+        "hue": 0,
+        "gold": false
+      },
+      "storage": [],
+      "story": {
+        "clock": 9.641483333333857,
+        "daycare": {
+          "monsters": [],
+          "steps": 0,
+          "egg": null
+        },
+        "hospital": [
+          "hospital",
+          "world"
+        ],
+        "visited": [
+          "hospital"
+        ],
+        "call_timer": 370.0459999999895,
+        "daily": {
+          "key": "2026-11-14",
+          "start": {
+            "evolved": 0,
+            "shiny": 0,
+            "catches": 0,
+            "steps": 18
+          },
+          "claimed": []
+        },
+        "weekly": {
+          "key": "2026-W46",
+          "start": {
+            "evolved": 0,
+            "shiny": 0,
+            "catches": 0,
+            "steps": 18
+          },
+          "claimed": []
+        },
+        "achievements": []
+      }
+    }
+  }
+}

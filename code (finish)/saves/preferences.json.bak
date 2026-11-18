@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "checksum": "8cb2491c624d5f96d4ea431a12c8f4c5f8bf99cfeb473752818b875064265e07",
+  "data": {
+    "brightness": 100,
+    "night_mode": false,
+    "language": "en",
+    "sound_volume": 80,
+    "music_volume": 70,
+    "muted": false,
+    "intro": "full",
+    "minimap": true,
+    "control_hints": true,
+    "colour_blind": false,
+    "large_text": false,
+    "difficulty": "normal",
+    "autosave": 180,
+    "encounter_rate": "normal",
+    "keys": {
+      "up": 119,
+      "down": 115,
+      "left": 97,
+      "right": 100,
+      "sprint": 1073742053
+    },
+    "speedrun_timer": false
+  }
+}
